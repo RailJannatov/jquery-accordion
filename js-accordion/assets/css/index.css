@@ -1,0 +1,16 @@
+.accordion {
+  background-color: gray;
+  padding: 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.context {
+  background-color: #e7e0e0;
+  padding: 20px;
+  display: none;
+}
+
+.active {
+  display: block;
+}
